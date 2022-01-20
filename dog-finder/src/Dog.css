@@ -1,0 +1,29 @@
+.Dog {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid palevioletred;
+    border-radius: 5px;
+    width: 30%;
+    margin: 3rem auto;
+}
+
+.Dog-img {
+    display: block;
+    width: 50%;
+    margin: 1rem auto;
+}
+
+.Dog h1, .Dog p {
+    text-align: center;
+}
+
+.Dog ul {
+    width: fit-content;
+    margin: 1.5rem auto;
+}
+
+.Dog-link {
+    display: block;
+    text-align: center;
+    margin-bottom: 1rem;
+    text-decoration: none;
+}
