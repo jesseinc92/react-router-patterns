@@ -1,0 +1,6 @@
+/* Universal Reset */
+
+body, div, main {
+    margin: 0;
+    padding: 0;
+}

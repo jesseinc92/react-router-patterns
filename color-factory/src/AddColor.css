@@ -1,0 +1,15 @@
+.AddColor {
+    width: 30%;
+    height: fit-content;
+    margin: 3rem auto;
+    padding: 2rem;
+    background-color: powderblue;
+    text-align: center;
+}
+
+.AddColor-btn {
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 0.25rem 0.5rem;
+    text-decoration: none;
+}

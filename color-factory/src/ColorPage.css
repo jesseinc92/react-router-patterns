@@ -1,0 +1,17 @@
+.ColorPage {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.ColorPage h1 {
+    font-size: 5rem;
+}
+
+.ColorPage-btn {
+    color: black;
+    font-size: 2rem;
+}

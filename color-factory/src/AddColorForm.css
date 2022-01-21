@@ -1,0 +1,31 @@
+.AddColorForm {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.AddColorForm form {
+    width: 50%;
+    height: 30%;
+    background-color: powderblue;
+}
+
+label {
+    margin-right: 0.5rem;
+}
+
+.AddColorForm h2 {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.AddColorForm-input-group {
+    margin-bottom: 1rem;
+}
+
+.AddColorForm-all-inputs {
+    width: fit-content;
+    margin: auto;
+}
+
